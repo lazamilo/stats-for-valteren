@@ -1,0 +1,4 @@
+.DS_Store
+.claude/
+# Commercial font (Maison Neue) — licensed, not redistributed in this public repo
+assets/fonts/*.otf
